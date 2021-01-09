@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "100,000 SUB STREAM",
+      "description": "Celebrating 100k subscribers",
+      "id": 1
+    },
+    {
+      "title": "Games with Jimmy",
+      "description": "Jimmy plays games",
+      "id": 2
+    },
+    {
+      "title": "Check me out!",
+      "description": "A fun stream",
+      "userId": "107055196157395324113",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Testing programmatic navigation",
+      "userId": "107055196157395324113",
+      "id": 4
+    },
+    {
+      "title": "Daily React Tutorials",
+      "description": "Teaching React!",
+      "userId": "107055196157395324113",
+      "id": 5
+    }
+  ]
+}
